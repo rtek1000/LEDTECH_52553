@@ -4,6 +4,7 @@ Dual Alphanumeric Display - Green 0.54 Digit Height - 14-segment - Common Cathod
  - - [MAX7219](https://www.analog.com/en/products/max7219.html)
  - - [MAX6954](https://www.analog.com/en/products/max6954.html)
  - - [MAX6955](https://www.analog.com/en/products/max6955.html)
+ - - TM1638
 
 ![img](https://raw.githubusercontent.com/rtek1000/LEDTECH_52553/main/Doc/LEDTECH%2052553%20-%201.jpeg)
 
@@ -71,4 +72,18 @@ MAX6955 - Serially Interfaced (I2C), LED Display Driver with I/O Expander and Ke
 - 36-Pin SSOP and 40-Pin DIP and TQFN Packages
 - Automotive Temperature Range Standard Covers Usage in Harsh Environments
 
+------
+
+TM1638
+
+- CMOS technology
+- 10 segments × 8 bits display
+- Keypad scanning (8 × 3 bits)
+- Brightness adjustment circuit (8-level adjustable duty ratio)
+- Serial interfaces (CLK, STB, DIO)
+- Oscillation mode: RC oscillation
+- Built-in power-on reset circuit
+- Package type: SOP28
+- 5V Operation
+- Common cathode / common anode
 

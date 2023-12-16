@@ -30,6 +30,8 @@ MAX7219 - Serially Interfaced (SPI), 8-Digit, LED Display Drivers:
 
 MAX6954 - Serially Interfaced (SPI), LED Display Driver with I/O Expander and Key Scan
 
+![img](https://raw.githubusercontent.com/rtek1000/LEDTECH_52553/main/Doc/MAX6954.png)
+
 - High-Speed 26MHz SPI/QSPI/MICROWIRE®-Compatible Serial Interface
 - 2.7V to 5.5V Operation
 - Drives Up to 16 Digits 7-Segment, 8 Digits 14-Segment, 8 Digits 16-Segment, 128 Discrete LEDs, or a Combination of Digit Types
@@ -48,6 +50,8 @@ MAX6954 - Serially Interfaced (SPI), LED Display Driver with I/O Expander and Ke
 ------
 
 MAX6955 - Serially Interfaced (I2C), LED Display Driver with I/O Expander and Key Scan
+
+![img](https://raw.githubusercontent.com/rtek1000/LEDTECH_52553/main/Doc/MAX6955_block1.png)
 
 - Simplifies Driving 5 x 7 Matrix LED Displays
 - - Drives Common-Cathode Monocolor and Bicolor LED Displays

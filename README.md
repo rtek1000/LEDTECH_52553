@@ -85,4 +85,5 @@ TM1638
 - Built-in power-on reset circuit
 - Package type: SOP28
 - 5V Operation
+- Common cathode / common anode
 
